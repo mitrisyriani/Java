@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class2</string>
+    <string name="greeting">Hello there</string>
+    <string name="hello_in_latin">Salve</string>
+    <string name="prompt_text">Use this greeting</string>
+    <string name="youwon">You won!</string>
+</resources>
